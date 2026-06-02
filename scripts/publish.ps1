@@ -52,8 +52,8 @@ try {
 }
 
 $remoteUrl = "https://github.com/$Owner/$RepoName.git"
-$existingRemote = git remote get-url origin 2>$null
-if ($LASTEXITCODE -eq 0) {
+$remoteExists = (git remote) -contains "origin"
+if ($remoteExists) {
   git remote set-url origin $remoteUrl
 } else {
   git remote add origin $remoteUrl
