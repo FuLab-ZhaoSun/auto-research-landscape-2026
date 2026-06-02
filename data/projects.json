@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Google AI Co-Scientist",
+    "repo_url": null,
+    "paper_url": "https://www.nature.com/articles/s41586-026-10644-y",
+    "category": "autonomous_scientific_discovery",
+    "evidence_level": "A",
+    "last_maintenance": "official full code not confirmed",
+    "notes": "Nature 2026 multi-agent hypothesis generation, critique, evolution and ranking system."
+  },
+  {
+    "name": "Kaimen Co-Scientist",
+    "repo_url": "https://github.com/Kaimen-Inc/Co-Scientist",
+    "paper_url": "https://www.nature.com/articles/s41586-026-10644-y",
+    "category": "replication",
+    "evidence_level": "C",
+    "last_maintenance": "2026-05-31",
+    "notes": "Independent re-implementation of Google AI Co-Scientist."
+  },
+  {
+    "name": "Robin",
+    "repo_url": "https://github.com/Future-House/robin",
+    "paper_url": "https://www.nature.com/articles/s41586-026-10652-y",
+    "category": "autonomous_biology_discovery",
+    "evidence_level": "A",
+    "last_maintenance": "2026-04-21",
+    "notes": "FutureHouse multi-agent system for automating scientific discovery."
+  },
+  {
+    "name": "ERA",
+    "repo_url": "https://github.com/google-research/era",
+    "paper_url": "https://www.nature.com/articles/s41586-026-10658-6",
+    "category": "empirical_research_software",
+    "evidence_level": "A",
+    "last_maintenance": "2026-05-27",
+    "notes": "AI system to help scientists write expert-level empirical software."
+  },
+  {
+    "name": "The AI Scientist",
+    "repo_url": "https://github.com/SakanaAI/AI-Scientist",
+    "paper_url": "https://www.nature.com/articles/s41586-026-10265-5",
+    "category": "automated_ai_research",
+    "evidence_level": "A",
+    "last_maintenance": "2025-12-19",
+    "notes": "End-to-end AI research loop with idea generation, experiments and paper writing."
+  },
+  {
+    "name": "CellVoyager",
+    "repo_url": "https://github.com/zou-group/CellVoyager",
+    "paper_url": "https://www.nature.com/articles/s41592-026-03029-6",
+    "category": "computational_biology_agent",
+    "evidence_level": "A",
+    "last_maintenance": "2026-03-28",
+    "notes": "AI computational biology agent for autonomous biological data analysis."
+  },
+  {
+    "name": "Virtual Lab",
+    "repo_url": "https://github.com/zou-group/virtual-lab",
+    "paper_url": "https://www.nature.com/articles/s41586-025-09442-9",
+    "category": "ai_human_scientific_collaboration",
+    "evidence_level": "A",
+    "last_maintenance": "2025-12-31",
+    "notes": "AI agent virtual lab for SARS-CoV-2 nanobody design."
+  },
+  {
+    "name": "SR-Scientist",
+    "repo_url": "https://github.com/GAIR-NLP/SR-Scientist",
+    "paper_url": "https://arxiv.org/abs/2510.11661",
+    "category": "equation_discovery",
+    "evidence_level": "A",
+    "last_maintenance": "2026-01-27",
+    "notes": "ICLR 2026 scientific equation discovery with agentic AI."
+  },
+  {
+    "name": "LLEMA",
+    "repo_url": "https://github.com/scientific-discovery/LLEMA",
+    "paper_url": "https://arxiv.org/abs/2510.22503",
+    "category": "materials_discovery",
+    "evidence_level": "A",
+    "last_maintenance": "2026-05-10",
+    "notes": "ICLR 2026 evolutionary search with LLMs for multi-objective materials discovery."
+  },
+  {
+    "name": "ShinkaEvolve",
+    "repo_url": "https://github.com/SakanaAI/ShinkaEvolve",
+    "paper_url": "https://arxiv.org/abs/2509.19349",
+    "category": "program_evolution",
+    "evidence_level": "A",
+    "last_maintenance": "2026-05-29",
+    "notes": "ICLR 2026 open-ended and sample-efficient program evolution."
+  },
+  {
+    "name": "AstaBench",
+    "repo_url": "https://github.com/allenai/asta-bench",
+    "paper_url": "https://allenai.org/papers/astabench",
+    "category": "benchmark",
+    "evidence_level": "A",
+    "last_maintenance": "2026-05-11",
+    "notes": "Evaluation framework for scientific research abilities of AI agents."
+  },
+  {
+    "name": "InternAgent",
+    "repo_url": "https://github.com/InternScience/InternAgent",
+    "paper_url": "https://huggingface.co/papers/2602.08990",
+    "category": "long_horizon_autonomous_science",
+    "evidence_level": "B",
+    "last_maintenance": "2026-05-07",
+    "notes": "Unified framework for long-horizon autonomous scientific discovery."
+  },
+  {
+    "name": "MLEvolve",
+    "repo_url": "https://github.com/InternScience/MLEvolve",
+    "paper_url": null,
+    "category": "machine_learning_engineering",
+    "evidence_level": "B",
+    "last_maintenance": "2026-03-31",
+    "notes": "Agentic MLE system for Kaggle-style ML competitions and MLE-bench."
+  },
+  {
+    "name": "AutoScientists",
+    "repo_url": "https://github.com/mims-harvard/AutoScientists",
+    "paper_url": "https://arxiv.org/abs/2605.28655",
+    "category": "long_running_experiment_agents",
+    "evidence_level": "B",
+    "last_maintenance": "2026-05-28",
+    "notes": "Self-organizing agent teams for long-running computational scientific experimentation."
+  },
+  {
+    "name": "OpenEvolve",
+    "repo_url": "https://github.com/algorithmicsuperintelligence/openevolve",
+    "paper_url": null,
+    "category": "algorithm_discovery",
+    "evidence_level": "B",
+    "last_maintenance": "2026-03-18",
+    "notes": "Evolutionary coding agent for algorithm and code optimization."
+  },
+  {
+    "name": "SkyDiscover",
+    "repo_url": "https://github.com/skydiscover-ai/skydiscover",
+    "paper_url": "https://arxiv.org/abs/2602.20133",
+    "category": "discovery_framework",
+    "evidence_level": "B",
+    "last_maintenance": "2026-05-31",
+    "notes": "Framework for AI-driven scientific and algorithmic discovery."
+  },
+  {
+    "name": "A-Evolve",
+    "repo_url": "https://github.com/A-EVO-Lab/a-evolve",
+    "paper_url": "https://arxiv.org/abs/2602.00359",
+    "category": "self_improving_agents",
+    "evidence_level": "C",
+    "last_maintenance": "2026-06-01",
+    "notes": "Infrastructure for evolving agents across domains."
+  },
+  {
+    "name": "RD-Agent",
+    "repo_url": "https://github.com/microsoft/RD-Agent",
+    "paper_url": "https://aka.ms/RD-Agent-Tech-Report",
+    "category": "research_and_development_agent",
+    "evidence_level": "B",
+    "last_maintenance": "2026-05-06",
+    "notes": "Microsoft research and development agent for data and model development."
+  },
+  {
+    "name": "Biomni",
+    "repo_url": "https://github.com/snap-stanford/Biomni",
+    "paper_url": "https://biomni.stanford.edu",
+    "category": "biomedical_agent",
+    "evidence_level": "B",
+    "last_maintenance": "2026-01-15",
+    "notes": "General-purpose biomedical AI agent."
+  },
+  {
+    "name": "Medea",
+    "repo_url": "https://github.com/mims-harvard/Medea",
+    "paper_url": "https://www.biorxiv.org/content/10.64898/2026.01.16.696667v1",
+    "category": "omics_agent",
+    "evidence_level": "B",
+    "last_maintenance": "2026-03-25",
+    "notes": "Omics AI agent for therapeutic discovery."
+  },
+  {
+    "name": "ToolUniverse",
+    "repo_url": "https://github.com/mims-harvard/ToolUniverse",
+    "paper_url": "https://arxiv.org/abs/2509.23426",
+    "category": "scientific_tool_platform",
+    "evidence_level": "B",
+    "last_maintenance": "2026-06-01",
+    "notes": "Scientific tool platform for AI scientists."
+  },
+  {
+    "name": "PaperOrchestra",
+    "repo_url": "https://github.com/Ar9av/PaperOrchestra",
+    "paper_url": "https://arxiv.org/abs/2604.05018",
+    "category": "paper_writing",
+    "evidence_level": "B",
+    "last_maintenance": "2026-05-26",
+    "notes": "Multi-agent framework and skill pack for automated AI research paper writing."
+  },
+  {
+    "name": "PaperBanana",
+    "repo_url": "https://github.com/dwzhu-pku/PaperBanana",
+    "paper_url": "https://huggingface.co/papers/2601.23265",
+    "category": "academic_illustration",
+    "evidence_level": "B",
+    "last_maintenance": "2026-05-11",
+    "notes": "Reference-driven multi-agent framework for academic illustration generation."
+  },
+  {
+    "name": "PaperQA2",
+    "repo_url": "https://github.com/Future-House/paper-qa",
+    "paper_url": "https://paper.wikicrow.ai",
+    "category": "scientific_literature_rag",
+    "evidence_level": "A",
+    "last_maintenance": "2026-03-20",
+    "notes": "Scientific literature RAG and question-answering package."
+  },
+  {
+    "name": "GPT Researcher",
+    "repo_url": "https://github.com/assafelovic/gpt-researcher",
+    "paper_url": null,
+    "category": "deep_research_report",
+    "evidence_level": "B",
+    "last_maintenance": "2026-05-28",
+    "notes": "General-purpose deep research report generator."
+  },
+  {
+    "name": "AIRS-Bench",
+    "repo_url": "https://github.com/facebookresearch/airs-bench",
+    "paper_url": "https://arxiv.org/abs/2602.06855",
+    "category": "benchmark",
+    "evidence_level": "B",
+    "last_maintenance": "2026-05-05",
+    "notes": "Benchmark suite for frontier AI research science agents."
+  },
+  {
+    "name": "PostTrainBench",
+    "repo_url": "https://github.com/aisa-group/PostTrainBench",
+    "paper_url": "http://posttrainbench.com/",
+    "category": "benchmark",
+    "evidence_level": "B",
+    "last_maintenance": "2026-05-28",
+    "notes": "Benchmark for evaluating whether CLI agents can automate LLM post-training."
+  }
+]
