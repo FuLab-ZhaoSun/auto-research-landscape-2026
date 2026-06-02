@@ -56,6 +56,20 @@ $env:GITHUB_TOKEN = "<token with repo permission>"
 .\scripts\publish.ps1 -Owner "<github-owner>" -RepoName "<repo-name>"
 ```
 
+如果还想把本调研中有 GitHub 仓库的项目 fork 到同一个 GitHub 账号或组织：
+
+```powershell
+.\scripts\fork-projects.ps1 -Owner "<github-owner>"
+```
+
+也可以一次完成发布和 fork：
+
+```powershell
+.\scripts\publish-and-fork.ps1 -Owner "<github-owner>" -RepoName "auto-research-landscape-2026"
+```
+
+GitHub fork 会创建成账号或组织下的独立仓库，不能嵌套在这个调研仓库内部。已识别的可 fork 仓库清单见 [data/forkable-repos.txt](data/forkable-repos.txt)。
+
 ## 当前判断
 
 自动写论文已经比较工程化，最实用的组合是 **PaperQA2 + PaperOrchestra + PaperBanana**。但它解决的是阅读、组织、引用和排版，不保证产生真实新科学。
