@@ -41,6 +41,21 @@
 - [排除与背景项目](docs/excluded-background.md)
 - [机器可读项目数据](data/projects.json)
 
+## 发布到 GitHub
+
+如果本地已经设置 GitHub token，可以直接运行：
+
+```powershell
+$env:GITHUB_TOKEN = "<token with repo permission>"
+.\scripts\publish.ps1
+```
+
+默认会创建并推送到 `auto-research-landscape-2026`。如果要推到组织或改名：
+
+```powershell
+.\scripts\publish.ps1 -Owner "<github-owner>" -RepoName "<repo-name>"
+```
+
 ## 当前判断
 
 自动写论文已经比较工程化，最实用的组合是 **PaperQA2 + PaperOrchestra + PaperBanana**。但它解决的是阅读、组织、引用和排版，不保证产生真实新科学。
