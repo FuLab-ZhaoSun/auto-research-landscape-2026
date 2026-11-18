@@ -1,212 +1,416 @@
-﻿[
-    {
-        "upstream":  "A-EVO-Lab/a-evolve",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/a-evolve",
-        "message":  ""
-    },
-    {
-        "upstream":  "aiming-lab/AutoResearchClaw",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/AutoResearchClaw",
-        "message":  ""
-    },
-    {
-        "upstream":  "aisa-group/PostTrainBench",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/PostTrainBench",
-        "message":  ""
-    },
-    {
-        "upstream":  "algorithmicsuperintelligence/openevolve",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/openevolve",
-        "message":  ""
-    },
-    {
-        "upstream":  "allenai/asta-bench",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/asta-bench",
-        "message":  ""
-    },
-    {
-        "upstream":  "Ar9av/PaperOrchestra",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/PaperOrchestra",
-        "message":  ""
-    },
-    {
-        "upstream":  "assafelovic/gpt-researcher",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/gpt-researcher",
-        "message":  ""
-    },
-    {
-        "upstream":  "AstroPilot-AI/Denario",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/Denario",
-        "message":  ""
-    },
-    {
-        "upstream":  "bio-xyz/BioAgents",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/BioAgents",
-        "message":  ""
-    },
-    {
-        "upstream":  "CMBAgents/cmbagent",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/cmbagent",
-        "message":  ""
-    },
-    {
-        "upstream":  "dwzhu-pku/PaperBanana",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/PaperBanana",
-        "message":  ""
-    },
-    {
-        "upstream":  "facebookresearch/airs-bench",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/airs-bench",
-        "message":  ""
-    },
-    {
-        "upstream":  "Future-House/paper-qa",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/paper-qa",
-        "message":  ""
-    },
-    {
-        "upstream":  "Future-House/robin",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/robin",
-        "message":  ""
-    },
-    {
-        "upstream":  "GAIR-NLP/SR-Scientist",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/SR-Scientist",
-        "message":  ""
-    },
-    {
-        "upstream":  "Genentech/SpatialAgent",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/SpatialAgent",
-        "message":  ""
-    },
-    {
-        "upstream":  "google-research/era",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/era",
-        "message":  ""
-    },
-    {
-        "upstream":  "IMMS-Ewha/MIND",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/MIND",
-        "message":  ""
-    },
-    {
-        "upstream":  "InternScience/InternAgent",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/InternAgent",
-        "message":  ""
-    },
-    {
-        "upstream":  "InternScience/MLEvolve",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/MLEvolve",
-        "message":  ""
-    },
-    {
-        "upstream":  "Kaimen-Inc/Co-Scientist",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/Co-Scientist",
-        "message":  ""
-    },
-    {
-        "upstream":  "LearningCircuit/local-deep-research",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/local-deep-research",
-        "message":  ""
-    },
-    {
-        "upstream":  "LiuLab-Bioelectronics-Harvard/STAgent",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/STAgent",
-        "message":  ""
-    },
-    {
-        "upstream":  "microsoft/RD-Agent",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/RD-Agent",
-        "message":  ""
-    },
-    {
-        "upstream":  "mims-harvard/AutoScientists",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/AutoScientists",
-        "message":  ""
-    },
-    {
-        "upstream":  "mims-harvard/Medea",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/Medea",
-        "message":  ""
-    },
-    {
-        "upstream":  "mims-harvard/ToolUniverse",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/ToolUniverse",
-        "message":  ""
-    },
-    {
-        "upstream":  "SakanaAI/AI-Scientist",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/AI-Scientist",
-        "message":  ""
-    },
-    {
-        "upstream":  "SakanaAI/ShinkaEvolve",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/ShinkaEvolve",
-        "message":  ""
-    },
-    {
-        "upstream":  "scientific-discovery/LLEMA",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/LLEMA",
-        "message":  ""
-    },
-    {
-        "upstream":  "skydiscover-ai/skydiscover",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/skydiscover",
-        "message":  ""
-    },
-    {
-        "upstream":  "snap-stanford/Biomni",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/Biomni",
-        "message":  ""
-    },
-    {
-        "upstream":  "SpikeAgent/SpikeAgent",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/SpikeAgent",
-        "message":  ""
-    },
-    {
-        "upstream":  "zou-group/CellVoyager",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/CellVoyager",
-        "message":  ""
-    },
-    {
-        "upstream":  "zou-group/virtual-lab",
-        "status":  "requested",
-        "fork_url":  "https://github.com/FuLab-ZhaoSun/virtual-lab",
-        "message":  ""
-    }
+[
+  {
+    "upstream": "A-EVO-Lab/a-evolve",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/a-evolve",
+    "message": ""
+  },
+  {
+    "upstream": "AdvancedPhotonSource/CVEvolve",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/CVEvolve",
+    "message": ""
+  },
+  {
+    "upstream": "Agents4Academia-AI/citation_verification",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/citation_verification",
+    "message": ""
+  },
+  {
+    "upstream": "aiming-lab/AutoResearchClaw",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/AutoResearchClaw",
+    "message": ""
+  },
+  {
+    "upstream": "aisa-group/PostTrainBench",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/PostTrainBench",
+    "message": ""
+  },
+  {
+    "upstream": "algorithmicsuperintelligence/openevolve",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/openevolve",
+    "message": ""
+  },
+  {
+    "upstream": "allenai/asta-bench",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/asta-bench",
+    "message": ""
+  },
+  {
+    "upstream": "Ar9av/PaperOrchestra",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/PaperOrchestra",
+    "message": ""
+  },
+  {
+    "upstream": "argonne-lcf/ChemGraph",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/ChemGraph",
+    "message": ""
+  },
+  {
+    "upstream": "assafelovic/gpt-researcher",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/gpt-researcher",
+    "message": ""
+  },
+  {
+    "upstream": "bio-xyz/BioAgents",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/BioAgents",
+    "message": ""
+  },
+  {
+    "upstream": "CMBAgents/cmbagent",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/cmbagent",
+    "message": ""
+  },
+  {
+    "upstream": "DechenZhang/VALG-ML-Theory-Agent",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/VALG-ML-Theory-Agent",
+    "message": ""
+  },
+  {
+    "upstream": "Denario-AI/Denario",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/Denario",
+    "message": ""
+  },
+  {
+    "upstream": "DingyangLyu/MatOS",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/MatOS",
+    "message": ""
+  },
+  {
+    "upstream": "dwzhu-pku/PaperBanana",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/PaperBanana",
+    "message": ""
+  },
+  {
+    "upstream": "EperLuo/BaisBench",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/BaisBench",
+    "message": ""
+  },
+  {
+    "upstream": "facebookresearch/airs-bench",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/airs-bench",
+    "message": ""
+  },
+  {
+    "upstream": "FrankLiu1102/ns-copilot",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/ns-copilot",
+    "message": ""
+  },
+  {
+    "upstream": "FrontisAI/NatureBench",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/NatureBench",
+    "message": ""
+  },
+  {
+    "upstream": "Future-House/paper-qa",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/paper-qa",
+    "message": ""
+  },
+  {
+    "upstream": "Future-House/robin",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/robin",
+    "message": ""
+  },
+  {
+    "upstream": "GAIR-NLP/SR-Scientist",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/SR-Scientist",
+    "message": ""
+  },
+  {
+    "upstream": "Genentech/SpatialAgent",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/SpatialAgent",
+    "message": ""
+  },
+  {
+    "upstream": "google-research/era",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/era",
+    "message": ""
+  },
+  {
+    "upstream": "IMMS-Ewha/MIND",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/MIND",
+    "message": ""
+  },
+  {
+    "upstream": "InternScience/InternAgent",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/InternAgent",
+    "message": ""
+  },
+  {
+    "upstream": "InternScience/MLEvolve",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/MLEvolve",
+    "message": ""
+  },
+  {
+    "upstream": "jmiao24/Paper2Agent",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/Paper2Agent",
+    "message": ""
+  },
+  {
+    "upstream": "Kaimen-Inc/Co-Scientist",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/Co-Scientist",
+    "message": ""
+  },
+  {
+    "upstream": "karpathy/autoresearch",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/autoresearch",
+    "message": ""
+  },
+  {
+    "upstream": "kiyoung98/HACO",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/HACO",
+    "message": ""
+  },
+  {
+    "upstream": "LearningCircuit/local-deep-research",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/local-deep-research",
+    "message": ""
+  },
+  {
+    "upstream": "LiuLab-Bioelectronics-Harvard/STAgent",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/STAgent",
+    "message": ""
+  },
+  {
+    "upstream": "MasterAI-EAM/ai-scientists-last-exam",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/ai-scientists-last-exam",
+    "message": ""
+  },
+  {
+    "upstream": "microsoft/RD-Agent",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/RD-Agent",
+    "message": ""
+  },
+  {
+    "upstream": "mims-harvard/AutoScientists",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/AutoScientists",
+    "message": ""
+  },
+  {
+    "upstream": "mims-harvard/Medea",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/Medea",
+    "message": ""
+  },
+  {
+    "upstream": "mims-harvard/ToolUniverse",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/ToolUniverse",
+    "message": ""
+  },
+  {
+    "upstream": "Omni-Scientist/OmniScientist",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/OmniScientist",
+    "message": ""
+  },
+  {
+    "upstream": "openJiuwen-ai/sciencediscovery",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/sciencediscovery",
+    "message": ""
+  },
+  {
+    "upstream": "openscientist-io/openscientist",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/openscientist",
+    "message": ""
+  },
+  {
+    "upstream": "Optima-CityU/LLM4AD_Next",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/LLM4AD_Next",
+    "message": ""
+  },
+  {
+    "upstream": "pinellolab/chorus",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/chorus",
+    "message": ""
+  },
+  {
+    "upstream": "prometheus-eval/into-the-unknown",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/into-the-unknown",
+    "message": ""
+  },
+  {
+    "upstream": "r2m-ai/scholar-loop",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/scholar-loop",
+    "message": ""
+  },
+  {
+    "upstream": "Renaissance-Mind/DrawAI",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/DrawAI",
+    "message": ""
+  },
+  {
+    "upstream": "RomeroLab/PRAXIS",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/PRAXIS",
+    "message": ""
+  },
+  {
+    "upstream": "RUC-NLPIR/Arbor",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/Arbor",
+    "message": ""
+  },
+  {
+    "upstream": "SakanaAI/AI-Scientist",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/AI-Scientist",
+    "message": ""
+  },
+  {
+    "upstream": "SakanaAI/AI-Scientist-v3",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/AI-Scientist-v3",
+    "message": ""
+  },
+  {
+    "upstream": "SakanaAI/ShinkaEvolve",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/ShinkaEvolve",
+    "message": ""
+  },
+  {
+    "upstream": "sapientinc/PRAXIST",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/PRAXIST",
+    "message": ""
+  },
+  {
+    "upstream": "scientific-discovery/LLEMA",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/LLEMA",
+    "message": ""
+  },
+  {
+    "upstream": "skydiscover-ai/skydiscover",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/skydiscover",
+    "message": ""
+  },
+  {
+    "upstream": "SkynetRTN/MARS",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/MARS",
+    "message": ""
+  },
+  {
+    "upstream": "snap-stanford/Biomni",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/Biomni",
+    "message": ""
+  },
+  {
+    "upstream": "Spark-To-Paper-Skills/spark-to-paper-skills",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/spark-to-paper-skills",
+    "message": ""
+  },
+  {
+    "upstream": "SpikeAgent/SpikeAgent",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/SpikeAgent",
+    "message": ""
+  },
+  {
+    "upstream": "SUSTech-GenAI/StatefulDiscovery",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/StatefulDiscovery",
+    "message": ""
+  },
+  {
+    "upstream": "SwarmResearch/SwarmResearch",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/SwarmResearch",
+    "message": ""
+  },
+  {
+    "upstream": "THU-KEG/RIDAR",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/RIDAR",
+    "message": ""
+  },
+  {
+    "upstream": "THU-Team-Eureka/EurekAgent",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/EurekAgent",
+    "message": ""
+  },
+  {
+    "upstream": "TianGzlab/OmicsClaw",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/OmicsClaw",
+    "message": ""
+  },
+  {
+    "upstream": "tiptreesystems/lacuna-research-mcp",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/lacuna-research-mcp",
+    "message": ""
+  },
+  {
+    "upstream": "tsinghua-fib-lab/SRHarness",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/SRHarness",
+    "message": ""
+  },
+  {
+    "upstream": "YangLabHKUST/STAT-agent",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/STAT-agent",
+    "message": ""
+  },
+  {
+    "upstream": "zou-group/CellVoyager",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/CellVoyager",
+    "message": ""
+  },
+  {
+    "upstream": "zou-group/virtual-lab",
+    "status": "requested",
+    "fork_url": "https://github.com/FuLab-ZhaoSun/virtual-lab",
+    "message": ""
+  }
 ]

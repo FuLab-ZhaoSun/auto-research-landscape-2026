@@ -8,10 +8,10 @@ https://github.com/allenai/asta-bench
 https://github.com/Ar9av/PaperOrchestra
 https://github.com/argonne-lcf/ChemGraph
 https://github.com/assafelovic/gpt-researcher
-https://github.com/AstroPilot-AI/Denario
 https://github.com/bio-xyz/BioAgents
 https://github.com/CMBAgents/cmbagent
 https://github.com/DechenZhang/VALG-ML-Theory-Agent
+https://github.com/Denario-AI/Denario
 https://github.com/DingyangLyu/MatOS
 https://github.com/dwzhu-pku/PaperBanana
 https://github.com/EperLuo/BaisBench

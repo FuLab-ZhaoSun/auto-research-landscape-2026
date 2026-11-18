@@ -121,6 +121,7 @@ GitHub fork 会创建成账号或组织下的独立仓库，不能嵌套在这�
   - `data/projects.json` 从 27 条扩到 **70 条**：补录 10 条此前只在文档中出现的项目，新增 33 条窗口内项目。
   - 主表 5 个分区同步更新，窗口外里程碑项目以 `*` 标注；`data/forkable-repos.txt` 扩到 69 个仓库。
   - 新增 Nature / Science / Nature Medicine 级系统 3 个（Biomni、Paper2Agent、OpenScientist），新 benchmark 4 个（NatureBench、Into the Unknown、AISLE、BAISBench）。
+  - **fork 状态**：`data/fork-results.json` 已刷新，69 个仓库全部 fork 到 `FuLab-ZhaoSun` 账号（其中 34 个为本轮新增）；Denario 上游更名为 `Denario-AI/Denario`，仓库链接已同步。
   - **核验方式**：每个仓库用 GitHub API 校验存在性、归档状态与默认分支最后提交日期；论文链接逐个验证可达；所有新增条目均可在 `data/projects.json` 中回溯。
 - **2026-06-02**：首版调研（27 条）。
 

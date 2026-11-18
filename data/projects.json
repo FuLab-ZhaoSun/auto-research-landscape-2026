@@ -253,7 +253,7 @@
   },
   {
     "name": "Denario",
-    "repo_url": "https://github.com/AstroPilot-AI/Denario",
+    "repo_url": "https://github.com/Denario-AI/Denario",
     "paper_url": "https://doi.org/10.1103/kk55-gc95",
     "category": "astronomy_research_agent",
     "evidence_level": "A",
