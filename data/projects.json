@@ -14,7 +14,7 @@
     "paper_url": "https://www.nature.com/articles/s41586-026-10644-y",
     "category": "replication",
     "evidence_level": "C",
-    "last_maintenance": "2026-05-31",
+    "last_maintenance": "2026-08-03",
     "notes": "Independent re-implementation of Google AI Co-Scientist."
   },
   {
@@ -32,7 +32,7 @@
     "paper_url": "https://www.nature.com/articles/s41586-026-10658-6",
     "category": "empirical_research_software",
     "evidence_level": "A",
-    "last_maintenance": "2026-05-27",
+    "last_maintenance": "2026-10-13",
     "notes": "AI system to help scientists write expert-level empirical software."
   },
   {
@@ -50,7 +50,7 @@
     "paper_url": "https://www.nature.com/articles/s41592-026-03029-6",
     "category": "computational_biology_agent",
     "evidence_level": "A",
-    "last_maintenance": "2026-03-28",
+    "last_maintenance": "2026-06-02",
     "notes": "AI computational biology agent for autonomous biological data analysis."
   },
   {
@@ -86,7 +86,7 @@
     "paper_url": "https://arxiv.org/abs/2509.19349",
     "category": "program_evolution",
     "evidence_level": "A",
-    "last_maintenance": "2026-05-29",
+    "last_maintenance": "2026-11-18",
     "notes": "ICLR 2026 open-ended and sample-efficient program evolution."
   },
   {
@@ -95,7 +95,7 @@
     "paper_url": "https://allenai.org/papers/astabench",
     "category": "benchmark",
     "evidence_level": "A",
-    "last_maintenance": "2026-05-11",
+    "last_maintenance": "2026-11-10",
     "notes": "Evaluation framework for scientific research abilities of AI agents."
   },
   {
@@ -104,8 +104,8 @@
     "paper_url": "https://huggingface.co/papers/2602.08990",
     "category": "long_horizon_autonomous_science",
     "evidence_level": "B",
-    "last_maintenance": "2026-05-07",
-    "notes": "Unified framework for long-horizon autonomous scientific discovery."
+    "last_maintenance": "2026-07-29",
+    "notes": "Unified framework for long-horizon autonomous scientific discovery; 2026-07 released InternAgent-1.5."
   },
   {
     "name": "MLEvolve",
@@ -113,8 +113,8 @@
     "paper_url": null,
     "category": "machine_learning_engineering",
     "evidence_level": "B",
-    "last_maintenance": "2026-03-31",
-    "notes": "Agentic MLE system for Kaggle-style ML competitions and MLE-bench."
+    "last_maintenance": "2026-11-16",
+    "notes": "Agentic MLE system for Kaggle-style ML competitions and MLE-bench; actively extended through 2026-11."
   },
   {
     "name": "AutoScientists",
@@ -131,7 +131,7 @@
     "paper_url": null,
     "category": "algorithm_discovery",
     "evidence_level": "B",
-    "last_maintenance": "2026-03-18",
+    "last_maintenance": "2026-11-18",
     "notes": "Evolutionary coding agent for algorithm and code optimization."
   },
   {
@@ -140,7 +140,7 @@
     "paper_url": "https://arxiv.org/abs/2602.20133",
     "category": "discovery_framework",
     "evidence_level": "B",
-    "last_maintenance": "2026-05-31",
+    "last_maintenance": "2026-09-14",
     "notes": "Framework for AI-driven scientific and algorithmic discovery."
   },
   {
@@ -149,7 +149,7 @@
     "paper_url": "https://arxiv.org/abs/2602.00359",
     "category": "self_improving_agents",
     "evidence_level": "C",
-    "last_maintenance": "2026-06-01",
+    "last_maintenance": "2026-11-06",
     "notes": "Infrastructure for evolving agents across domains."
   },
   {
@@ -158,17 +158,17 @@
     "paper_url": "https://aka.ms/RD-Agent-Tech-Report",
     "category": "research_and_development_agent",
     "evidence_level": "B",
-    "last_maintenance": "2026-05-06",
-    "notes": "Microsoft research and development agent for data and model development."
+    "last_maintenance": "2026-09-23",
+    "notes": "Microsoft research and development agent for data and model development; main branch updated through 2026-09."
   },
   {
     "name": "Biomni",
     "repo_url": "https://github.com/snap-stanford/Biomni",
-    "paper_url": "https://biomni.stanford.edu",
+    "paper_url": "https://www.science.org/doi/10.1126/science.adz4351",
     "category": "biomedical_agent",
-    "evidence_level": "B",
-    "last_maintenance": "2026-01-15",
-    "notes": "General-purpose biomedical AI agent."
+    "evidence_level": "A",
+    "last_maintenance": "2026-11-16",
+    "notes": "General-purpose biomedical AI agent; Science 2026 system paper with autonomous action discovery across 25 domains."
   },
   {
     "name": "Medea",
@@ -176,7 +176,7 @@
     "paper_url": "https://www.biorxiv.org/content/10.64898/2026.01.16.696667v1",
     "category": "omics_agent",
     "evidence_level": "B",
-    "last_maintenance": "2026-03-25",
+    "last_maintenance": "2026-07-17",
     "notes": "Omics AI agent for therapeutic discovery."
   },
   {
@@ -185,7 +185,7 @@
     "paper_url": "https://arxiv.org/abs/2509.23426",
     "category": "scientific_tool_platform",
     "evidence_level": "B",
-    "last_maintenance": "2026-06-01",
+    "last_maintenance": "2026-11-16",
     "notes": "Scientific tool platform for AI scientists."
   },
   {
@@ -194,7 +194,7 @@
     "paper_url": "https://arxiv.org/abs/2604.05018",
     "category": "paper_writing",
     "evidence_level": "B",
-    "last_maintenance": "2026-05-26",
+    "last_maintenance": "2026-11-04",
     "notes": "Multi-agent framework and skill pack for automated AI research paper writing."
   },
   {
@@ -203,7 +203,7 @@
     "paper_url": "https://huggingface.co/papers/2601.23265",
     "category": "academic_illustration",
     "evidence_level": "B",
-    "last_maintenance": "2026-05-11",
+    "last_maintenance": "2026-11-12",
     "notes": "Reference-driven multi-agent framework for academic illustration generation."
   },
   {
@@ -212,7 +212,7 @@
     "paper_url": "https://paper.wikicrow.ai",
     "category": "scientific_literature_rag",
     "evidence_level": "A",
-    "last_maintenance": "2026-03-20",
+    "last_maintenance": "2026-10-26",
     "notes": "Scientific literature RAG and question-answering package."
   },
   {
@@ -221,7 +221,7 @@
     "paper_url": null,
     "category": "deep_research_report",
     "evidence_level": "B",
-    "last_maintenance": "2026-05-28",
+    "last_maintenance": "2026-11-09",
     "notes": "General-purpose deep research report generator."
   },
   {
@@ -239,7 +239,394 @@
     "paper_url": "http://posttrainbench.com/",
     "category": "benchmark",
     "evidence_level": "B",
-    "last_maintenance": "2026-05-28",
+    "last_maintenance": "2026-11-12",
     "notes": "Benchmark for evaluating whether CLI agents can automate LLM post-training."
+  },
+  {
+    "name": "AutoResearchClaw",
+    "repo_url": "https://github.com/aiming-lab/AutoResearchClaw",
+    "paper_url": null,
+    "category": "autonomous_research_pipeline",
+    "evidence_level": "C",
+    "last_maintenance": "2026-08-19",
+    "notes": "idea 到 paper 的自主/协作科研流水线，含 HITL 与 ARC-Bench 评测。"
+  },
+  {
+    "name": "Denario",
+    "repo_url": "https://github.com/AstroPilot-AI/Denario",
+    "paper_url": "https://doi.org/10.1103/kk55-gc95",
+    "category": "astronomy_research_agent",
+    "evidence_level": "A",
+    "last_maintenance": "2026-10-02",
+    "notes": "天文/宇宙学多智能体科研助手，覆盖想法、文献、计划、代码、图表与论文草稿；PRX Intelligence 2026 系统论文。"
+  },
+  {
+    "name": "BioAgents",
+    "repo_url": "https://github.com/bio-xyz/BioAgents",
+    "paper_url": null,
+    "category": "bioinformatics_agent_framework",
+    "evidence_level": "C",
+    "last_maintenance": "2026-06-15",
+    "notes": "生物文献与数据分析 agent 框架；仓库已于 2026-06 归档。"
+  },
+  {
+    "name": "cmbagent",
+    "repo_url": "https://github.com/CMBAgents/cmbagent",
+    "paper_url": null,
+    "category": "astronomy_agent_backend",
+    "evidence_level": "B",
+    "last_maintenance": "2026-11-16",
+    "notes": "Denario 的研究分析后端之一，多 agent 编排宇宙学分析任务。"
+  },
+  {
+    "name": "SpatialAgent",
+    "repo_url": "https://github.com/Genentech/SpatialAgent",
+    "paper_url": null,
+    "category": "spatial_transcriptomics_agent",
+    "evidence_level": "B",
+    "last_maintenance": "2026-09-22",
+    "notes": "空间转录组、单细胞与分子生物学 agent。"
+  },
+  {
+    "name": "MIND",
+    "repo_url": "https://github.com/IMMS-Ewha/MIND",
+    "paper_url": null,
+    "category": "materials_discovery",
+    "evidence_level": "C",
+    "last_maintenance": "2026-03-16",
+    "notes": "材料研究 co-scientist，把自然语言研究请求转成 MLIP-ready 实验规格。"
+  },
+  {
+    "name": "karpathy/autoresearch",
+    "repo_url": "https://github.com/karpathy/autoresearch",
+    "paper_url": null,
+    "category": "minimal_autoresearch",
+    "evidence_level": "C",
+    "last_maintenance": "2026-03-26",
+    "notes": "小型 LLM 训练实验的自动研究循环，适合理解最小自动科研系统。"
+  },
+  {
+    "name": "Local Deep Research",
+    "repo_url": "https://github.com/LearningCircuit/local-deep-research",
+    "paper_url": null,
+    "category": "deep_research_report",
+    "evidence_level": "C",
+    "last_maintenance": "2026-11-18",
+    "notes": "本地化 deep research 报告生成。"
+  },
+  {
+    "name": "STAgent",
+    "repo_url": "https://github.com/LiuLab-Bioelectronics-Harvard/STAgent",
+    "paper_url": null,
+    "category": "spatial_omics_agent",
+    "evidence_level": "C",
+    "last_maintenance": "2026-10-11",
+    "notes": "空间转录组交互式分析与报告生成。"
+  },
+  {
+    "name": "SpikeAgent",
+    "repo_url": "https://github.com/SpikeAgent/SpikeAgent",
+    "paper_url": null,
+    "category": "neuroscience_agent",
+    "evidence_level": "C",
+    "last_maintenance": "2026-10-04",
+    "notes": "神经电生理 spike sorting 与分析 agent。"
+  },
+  {
+    "name": "Arbor",
+    "repo_url": "https://github.com/RUC-NLPIR/Arbor",
+    "paper_url": "https://arxiv.org/abs/2606.11926",
+    "category": "long_horizon_autonomous_research",
+    "evidence_level": "B",
+    "last_maintenance": "2026-11-03",
+    "notes": "把自主研究建模为假设树精炼：提出子假设、执行实验、按证据剪枝，用持久假设树维持长程一致性。"
+  },
+  {
+    "name": "The Agentic Scientist (AI-Scientist-v3)",
+    "repo_url": "https://github.com/SakanaAI/AI-Scientist-v3",
+    "paper_url": "https://arxiv.org/abs/2610.18933",
+    "category": "autonomous_scientific_discovery",
+    "evidence_level": "B",
+    "last_maintenance": "2026-11-17",
+    "notes": "Sakana AI 第三代 AI Scientist：用编码 agent 编排取代固定模板，做想法生成、并行实验树搜索与 LaTeX 写作。"
+  },
+  {
+    "name": "OmniScientist",
+    "repo_url": "https://github.com/Omni-Scientist/OmniScientist",
+    "paper_url": "https://arxiv.org/abs/2608.13558",
+    "category": "end_to_end_ai_scientist",
+    "evidence_level": "B",
+    "last_maintenance": "2026-09-26",
+    "notes": "全模态、全学科端到端 AI scientist：直接消费图像、信号、音频、视频、3D 结构等原始证据，覆盖构思、实验与写作。"
+  },
+  {
+    "name": "PRAXIST",
+    "repo_url": "https://github.com/sapientinc/PRAXIST",
+    "paper_url": "https://arxiv.org/abs/2608.25955",
+    "category": "empirical_research_software",
+    "evidence_level": "B",
+    "last_maintenance": "2026-09-23",
+    "notes": "面向可度量、可计算机执行研究的自主系统：并行研究 peer、任务自有评测与持久证据，把实验产物沉淀为 solution lineage。"
+  },
+  {
+    "name": "ScholarLoop",
+    "repo_url": "https://github.com/r2m-ai/scholar-loop",
+    "paper_url": null,
+    "category": "autonomous_research_loop",
+    "evidence_level": "B",
+    "last_maintenance": "2026-11-16",
+    "notes": "开源多 agent 自主科研闭环：文献综述、方向图、想法锦标赛、对照实验、审稿与分段写作，用代码护栏核对引用与数字。"
+  },
+  {
+    "name": "ScienceDiscovery (openJiuwen)",
+    "repo_url": "https://github.com/openJiuwen-ai/sciencediscovery",
+    "paper_url": null,
+    "category": "autonomous_research_workbench",
+    "evidence_level": "B",
+    "last_maintenance": "2026-11-18",
+    "notes": "华为 openJiuwen 社区的一站式 AI 科研工作台：文献阅读、假设、写代码、试错与调参收进同一本地环境，工具走 MCP、产物内容寻址溯源。"
+  },
+  {
+    "name": "EurekAgent",
+    "repo_url": "https://github.com/THU-Team-Eureka/EurekAgent",
+    "paper_url": "https://arxiv.org/abs/2606.13662",
+    "category": "autonomous_metric_driven_research",
+    "evidence_level": "B",
+    "last_maintenance": "2026-08-10",
+    "notes": "面向指标驱动任务的自主科研系统，基于编码 agent 构建环境与评测反馈闭环，强调环境工程而非提示词。"
+  },
+  {
+    "name": "StatefulDiscovery",
+    "repo_url": "https://github.com/SUSTech-GenAI/StatefulDiscovery",
+    "paper_url": "https://arxiv.org/abs/2606.11851",
+    "category": "open_ended_scientific_discovery",
+    "evidence_level": "A",
+    "last_maintenance": "2026-10-20",
+    "notes": "把调查状态外化为显式对象，驱动前沿选择、证据获取与主张裁定，缓解自主发现 agent 的过度解读；EMNLP 2026 Findings。"
+  },
+  {
+    "name": "LLM4AD_Next",
+    "repo_url": "https://github.com/Optima-CityU/LLM4AD_Next",
+    "paper_url": null,
+    "category": "algorithm_discovery",
+    "evidence_level": "B",
+    "last_maintenance": "2026-11-18",
+    "notes": "LLM4AD 平台下一代：自然语言描述问题即可生成可运行的进化算法搜索工程，可作为算法改进器接入自动科研流水线。"
+  },
+  {
+    "name": "MatOS",
+    "repo_url": "https://github.com/DingyangLyu/MatOS",
+    "paper_url": "https://arxiv.org/abs/2610.34203",
+    "category": "materials_discovery",
+    "evidence_level": "B",
+    "last_maintenance": "2026-10-25",
+    "notes": "材料科研智能体操作系统：把数据、知识、工具、技能与工作流组织成带依赖的科学资产图，用有状态自适应工作流执行并随运行证据演化。"
+  },
+  {
+    "name": "VALG",
+    "repo_url": "https://github.com/DechenZhang/VALG-ML-Theory-Agent",
+    "paper_url": "https://arxiv.org/abs/2608.13060",
+    "category": "ai_for_math",
+    "evidence_level": "B",
+    "last_maintenance": "2026-08-15",
+    "notes": "面向 ML 理论研究的 agentic 系统：多级验证、自适应问题表述与图结构化证明开发，按依赖顺序构造并评审局部证明。"
+  },
+  {
+    "name": "SwarmResearch",
+    "repo_url": "https://github.com/SwarmResearch/SwarmResearch",
+    "paper_url": "https://arxiv.org/abs/2607.02807",
+    "category": "program_evolution",
+    "evidence_level": "B",
+    "last_maintenance": "2026-07-07",
+    "notes": "用 Shepherd agent 调度一群各自在 git worktree 中并行改代码的编码 agent，以种群式搜索与多分支父代选择做开放式发现。"
+  },
+  {
+    "name": "SRHarness",
+    "repo_url": "https://github.com/tsinghua-fib-lab/SRHarness",
+    "paper_url": "https://arxiv.org/abs/2609.35501",
+    "category": "equation_discovery",
+    "evidence_level": "B",
+    "last_maintenance": "2026-10-17",
+    "notes": "面向 agentic 符号回归的运行时：统一分析、拟合、求值、执行与公式提交接口，持久化候选、复杂度与 Pareto 排序。"
+  },
+  {
+    "name": "HACO",
+    "repo_url": "https://github.com/kiyoung98/HACO",
+    "paper_url": "https://arxiv.org/abs/2606.22866",
+    "category": "algorithm_discovery",
+    "evidence_level": "B",
+    "last_maintenance": "2026-06-24",
+    "notes": "人机协同算法发现：跨领域搜索建模范式，在稀疏人工引导下自动搜索并改进训练代码，用于晶体结构预测算法发现。"
+  },
+  {
+    "name": "CVEvolve",
+    "repo_url": "https://github.com/AdvancedPhotonSource/CVEvolve",
+    "paper_url": null,
+    "category": "autonomous_algorithm_discovery",
+    "evidence_level": "C",
+    "last_maintenance": "2026-07-20",
+    "notes": "阿贡国家实验室先进光子源的自主算法发现系统：agent 自行配置开发环境与评测 harness，迭代改进科学数据处理算法。"
+  },
+  {
+    "name": "OpenScientist",
+    "repo_url": "https://github.com/openscientist-io/openscientist",
+    "paper_url": "https://www.nature.com/articles/s41591-026-04808-6",
+    "category": "biomedical_agent",
+    "evidence_level": "A",
+    "last_maintenance": "2026-11-17",
+    "notes": "开源 agentic AI co-scientist：用 Agent Skills 与 MCP 工具做迭代假设-执行-检索，完成可验证的生物医学数据分析；Nature Medicine 2026-11-16。"
+  },
+  {
+    "name": "ChemGraph",
+    "repo_url": "https://github.com/argonne-lcf/ChemGraph",
+    "paper_url": "https://www.nature.com/articles/s42004-025-01776-9",
+    "category": "chemistry_agent",
+    "evidence_level": "A",
+    "last_maintenance": "2026-11-17",
+    "notes": "阿贡国家实验室的 agentic 计算化学与材料框架：自然语言接到 ASE/RDKit/MLIP 工作流并经 MCP 暴露，支持 HPC 高通量筛选。"
+  },
+  {
+    "name": "PRAXIS",
+    "repo_url": "https://github.com/RomeroLab/PRAXIS",
+    "paper_url": "https://www.biorxiv.org/content/10.64898/2026.08.14.744985v1",
+    "category": "protein_engineering_agent",
+    "evidence_level": "B",
+    "last_maintenance": "2026-08-17",
+    "notes": "Duke Romero 实验室的自驱动蛋白工程平台：蛋白语言模型负责序列设计，机器人实验室完成基因组装、表达与表征，形成干湿实验闭环。"
+  },
+  {
+    "name": "OmicsClaw",
+    "repo_url": "https://github.com/TianGzlab/OmicsClaw",
+    "paper_url": null,
+    "category": "omics_agent",
+    "evidence_level": "C",
+    "last_maintenance": "2026-10-07",
+    "notes": "面向单细胞、空间与 bulk 转录组等组学数据的记忆型科研 agent，带领域 skill 集与 CLI/桌面端，对接到本机 Python/R 工具链。"
+  },
+  {
+    "name": "STAT",
+    "repo_url": "https://github.com/YangLabHKUST/STAT-agent",
+    "paper_url": "https://www.biorxiv.org/content/10.64898/2026.05.01.722244v1",
+    "category": "spatial_omics_agent",
+    "evidence_level": "B",
+    "last_maintenance": "2026-10-16",
+    "notes": "空间转录组专用 agent：自然语言提出需求后自动规划、选方法、检查数据、跑代码并纠错解释，配组织可视化与可复现分析流程。"
+  },
+  {
+    "name": "Chorus",
+    "repo_url": "https://github.com/pinellolab/chorus",
+    "paper_url": "https://zenodo.org/records/21535149",
+    "category": "genomics_tool_platform",
+    "evidence_level": "B",
+    "last_maintenance": "2026-11-16",
+    "notes": "把 Enformer、Borzoi、ChromBPNet、AlphaGenome 等基因组「序列→功能」模型统一成一个接口，以 MCP 工具提供变异效应预测与逐 track 校准。"
+  },
+  {
+    "name": "NS-Copilot",
+    "repo_url": "https://github.com/FrankLiu1102/ns-copilot",
+    "paper_url": "https://arxiv.org/abs/2609.01971",
+    "category": "neuroscience_agent",
+    "evidence_level": "A",
+    "last_maintenance": "2026-09-16",
+    "notes": "神经科学端到端多智能体分析系统：Planner/Coder/Controller/Interpreter 在沙箱中自动挑选神经模型、生成并迭代分析代码；EMNLP 2026 Findings。"
+  },
+  {
+    "name": "MARS",
+    "repo_url": "https://github.com/SkynetRTN/MARS",
+    "paper_url": null,
+    "category": "astronomy_tool_platform",
+    "evidence_level": "C",
+    "last_maintenance": "2026-11-16",
+    "notes": "UNC Skynet 机器人望远镜网络的 MCP 天文研究套件：把 SIMBAD、NED、VizieR、MAST、ADS 等查询与测光/变星/脉冲星管线封装成 agent 工具。"
+  },
+  {
+    "name": "Spark-to-Paper",
+    "repo_url": "https://github.com/Spark-To-Paper-Skills/spark-to-paper-skills",
+    "paper_url": "https://arxiv.org/abs/2608.11924",
+    "category": "paper_writing",
+    "evidence_level": "B",
+    "last_maintenance": "2026-08-18",
+    "notes": "把一句话研究想法端到端做成论文的可组合技能集：文献检索、实验设计执行、证据修订、原生矢量论文图与可编译 LaTeX。"
+  },
+  {
+    "name": "Paper2Agent",
+    "repo_url": "https://github.com/jmiao24/Paper2Agent",
+    "paper_url": "https://www.nature.com/articles/s41586-026-11044-y",
+    "category": "paper_agent",
+    "evidence_level": "A",
+    "last_maintenance": "2026-09-17",
+    "notes": "把研究论文自动转换为可交互 AI agent，把论文的代码、数据与工作流暴露为 agent-native 知识；Nature 2026-09-16。"
+  },
+  {
+    "name": "DrawAI",
+    "repo_url": "https://github.com/Renaissance-Mind/DrawAI",
+    "paper_url": "https://arxiv.org/abs/2608.00548",
+    "category": "academic_illustration",
+    "evidence_level": "B",
+    "last_maintenance": "2026-10-12",
+    "notes": "把生成图或截图栅格图重建为可编辑 SVG/PPTX 的 agentic 工作流，并配 DrawAI-Bench 同时评保真度与对象级可编辑性。"
+  },
+  {
+    "name": "RefWarden",
+    "repo_url": "https://github.com/Agents4Academia-AI/citation_verification",
+    "paper_url": null,
+    "category": "citation_verification",
+    "evidence_level": "B",
+    "last_maintenance": "2026-10-20",
+    "notes": "以 (claim, citation) 对为单位的引用核查 agent：校验文献真实存在与元数据正确，再判断被引论文是否真的支撑该论断。"
+  },
+  {
+    "name": "Lacuna",
+    "repo_url": "https://github.com/tiptreesystems/lacuna-research-mcp",
+    "paper_url": "https://arxiv.org/abs/2606.26246",
+    "category": "scientific_literature_rag",
+    "evidence_level": "B",
+    "last_maintenance": "2026-11-15",
+    "notes": "用 LLM 把论文与学术元数据组织成 ML 研究地图，提供 web/markdown/MCP 三种接口与 deep research 报告 agent；ICML 2026。"
+  },
+  {
+    "name": "NatureBench",
+    "repo_url": "https://github.com/FrontisAI/NatureBench",
+    "paper_url": "https://arxiv.org/abs/2606.24530",
+    "category": "benchmark",
+    "evidence_level": "B",
+    "last_maintenance": "2026-11-15",
+    "notes": "从 Nature 系论文蒸馏 90 个跨学科科学 ML 任务，考察编码 agent 能否达到原文已发表 SOTA，并维护公开 leaderboard。"
+  },
+  {
+    "name": "Into the Unknown",
+    "repo_url": "https://github.com/prometheus-eval/into-the-unknown",
+    "paper_url": "https://arxiv.org/abs/2610.19159",
+    "category": "benchmark",
+    "evidence_level": "B",
+    "last_maintenance": "2026-10-20",
+    "notes": "与 DOE 国家实验室科学家合作，把未发表的后续研究方向作为开放科研题，考察 agent 能否写出满足专家预设条件的跟进论文。"
+  },
+  {
+    "name": "AISLE",
+    "repo_url": "https://github.com/MasterAI-EAM/ai-scientists-last-exam",
+    "paper_url": null,
+    "category": "benchmark",
+    "evidence_level": "B",
+    "last_maintenance": "2026-11-18",
+    "notes": "AI Scientists' Last Exam：面向干湿实验闭环的公开基准，在 Docker 中运行 agent 并给实验记录打分，含实时 leaderboard。"
+  },
+  {
+    "name": "BAISBench",
+    "repo_url": "https://github.com/EperLuo/BaisBench",
+    "paper_url": "https://doi.org/10.1093/bioinformatics/btag227",
+    "category": "benchmark",
+    "evidence_level": "B",
+    "last_maintenance": "2026-03-18",
+    "notes": "评估 AI scientist 能否从真实单细胞转录组数据中得出生物学发现的基准；论文 2026-07 发表于 Bioinformatics。"
+  },
+  {
+    "name": "RIDAR",
+    "repo_url": "https://github.com/THU-KEG/RIDAR",
+    "paper_url": "https://arxiv.org/abs/2610.31372",
+    "category": "research_integrity",
+    "evidence_level": "C",
+    "last_maintenance": "2026-10-25",
+    "notes": "清华 THU-KEG 的自主科研诚信护栏：自动检测数据泄漏、指标误用、事后挑选等失效模式并做运行时干预。"
   }
 ]

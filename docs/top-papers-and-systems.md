@@ -83,3 +83,54 @@
 - 最近维护：2026-05-11。
 - 类型：自动科研能力评测。
 - 能力：2400+ examples、11 benchmarks，覆盖文献检索、代码执行、数据分析和端到端发现。
+
+## Biomni（Science 2026）
+
+- 仓库：[snap-stanford/Biomni](https://github.com/snap-stanford/Biomni)
+- 论文：[Science 2026](https://www.science.org/doi/10.1126/science.adz4351)
+- 最近维护：2026-11-16。
+- 类型：通用生物医学 AI agent。
+- 能力：action-discovery agent 从数千篇文献里挖掘 25 个领域的工具、数据库与实验协议，构建统一 agentic 环境，再用 LLM 推理 + RAG 规划 + 代码执行动态组合工作流。
+- 判断：把「生物医学 agent 能做什么」从论文里的单点 demo 推进到系统化动作空间，是 2026 年该方向引用最高的系统论文之一。
+
+## OpenScientist（Nature Medicine 2026）
+
+- 仓库：[openscientist-io/openscientist](https://github.com/openscientist-io/openscientist)
+- 论文：[Nature Medicine 2026](https://www.nature.com/articles/s41591-026-04808-6)
+- 最近维护：2026-11-17。
+- 类型：开源的 agentic AI co-scientist。
+- 能力：以 Agent Skills + MCP 工具在「假设 → 执行 → 检索 → 修订」循环里做可验证的数据分析，五个生物医学案例由领域专家盲评。
+- 判断：第一次有开源 co-scientist 以顶刊系统论文的形式出现，可直接对照复现。
+
+## Paper2Agent（Nature 2026）
+
+- 仓库：[jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent)
+- 论文：[Nature 2026](https://www.nature.com/articles/s41586-026-11044-y)
+- 最近维护：2026-09-17。
+- 类型：论文转 agent 框架。
+- 能力：把论文正文、补充材料、数据集、代码与工作流一起转换成可交互 agent，充当「虚拟通讯作者」。
+- 判断：改变论文的消费方式，也顺带解决复现问题——agent 直接调用原文代码而不是让读者自己拼环境。
+
+## The Agentic Scientist（AI-Scientist-v3，2026）
+
+- 仓库：[SakanaAI/AI-Scientist-v3](https://github.com/SakanaAI/AI-Scientist-v3)
+- 论文：[arXiv 2610.18933](https://arxiv.org/abs/2610.18933)（预印本，故证据等级记 B）
+- 最近维护：2026-11-17。
+- 类型：端到端自动科研。
+- 能力：不再使用固定模板流水线，而是编排通用编码 agent 完成想法生成、并行实验树搜索与 LaTeX 论文撰写，并显式讨论 rubric 下的 reward hacking。
+- 判断：与 2024 版 The AI Scientist 是两个不同的仓库和方法，代表「编排编码 agent」这条路线。
+
+## Arbor（2026）
+
+- 仓库：[RUC-NLPIR/Arbor](https://github.com/RUC-NLPIR/Arbor)
+- 论文：[arXiv 2606.11926](https://arxiv.org/abs/2606.11926)（预印本，故证据等级记 B）
+- 最近维护：2026-11-03。
+- 类型：通用长程自主研究 agent。
+- 能力：把研究过程建模成假设树精炼——提出子假设、执行实验、按证据剪枝，用持久假设树而非对话历史维持长程一致性。
+- 判断：2026 年下半年最受关注的长程自主研究范式之一。
+
+## AlphaEvolve（背景）
+
+- 论文：[PNAS 2026](https://doi.org/10.1073/pnas.2536158123)，以及 Google DeepMind 2025 技术报告。
+- 开源状态：官方未开源；开源复刻 [OpenEvolve](https://github.com/algorithmicsuperintelligence/openevolve) 已进主表。
+- 判断：用进化式编码 agent 在 67 个数学问题上复现或改进已知最优解，是「自动算法/数学发现」目前最强的公开证据，但因不开源只作为背景。
