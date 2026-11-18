@@ -43,32 +43,47 @@
 
 ## 发布到 GitHub
 
-如果本地已经设置 GitHub token，可以直接运行：
+仓库提供两套等价脚本：Windows 用 PowerShell 版，macOS / Linux 用 bash 版。
+
+### 前置条件
+
+- `git`；bash 版还需要 `curl` 和 `python3`（解析 GitHub API 响应）。
+- 一个能创建仓库并推送代码的 GitHub 凭证：设置 `GITHUB_TOKEN` 或 `GH_TOKEN`；
+  bash 版在两者都缺失时会自动回退到 `gh auth token`，因此也可以先执行 `gh auth login`。
+
+### macOS / Linux（bash）
+
+```bash
+export GITHUB_TOKEN="<token with repo permission>"   # 或者先 gh auth login
+./scripts/publish.sh                                  # 发布到当前账号
+./scripts/publish.sh --owner <github-owner> --repo-name <repo-name>
+./scripts/fork-projects.sh --owner <github-owner>
+./scripts/publish-and-fork.sh --owner <github-owner> --repo-name auto-research-landscape-2026
+```
+
+每个脚本都支持 `--help` 查看全部参数（`publish.sh --branch` 可指定推送分支，默认 `main`）。
+
+### Windows（PowerShell）
 
 ```powershell
 $env:GITHUB_TOKEN = "<token with repo permission>"
 .\scripts\publish.ps1
-```
-
-默认会创建并推送到 `auto-research-landscape-2026`。如果要推到组织或改名：
-
-```powershell
 .\scripts\publish.ps1 -Owner "<github-owner>" -RepoName "<repo-name>"
-```
-
-如果还想把本调研中有 GitHub 仓库的项目 fork 到同一个 GitHub 账号或组织：
-
-```powershell
 .\scripts\fork-projects.ps1 -Owner "<github-owner>"
-```
-
-也可以一次完成发布和 fork：
-
-```powershell
 .\scripts\publish-and-fork.ps1 -Owner "<github-owner>" -RepoName "auto-research-landscape-2026"
 ```
 
-GitHub fork 会创建成账号或组织下的独立仓库，不能嵌套在这个调研仓库内部。已识别的可 fork 仓库清单见 [data/forkable-repos.txt](data/forkable-repos.txt)。
+### 脚本对照
+
+| 作用 | PowerShell | bash（macOS / Linux） |
+| --- | --- | --- |
+| 创建仓库并推送 | `publish.ps1` | `publish.sh` |
+| fork 调研项目 | `fork-projects.ps1` | `fork-projects.sh` |
+| 一键发布 + fork | `publish-and-fork.ps1` | `publish-and-fork.sh` |
+
+两套脚本字段和结果一致，可以互相覆盖：bash 版把 `data/fork-results.json` 写成**无 BOM 的 UTF-8**（2 空格缩进），PowerShell 版带 BOM；上游列表在 bash 版按 ASCII 排序去重。
+
+GitHub fork 会创建成账号或组织下的独立仓库，不能嵌套在这个调研仓库内部。已识别的可 fork 仓库清单见 [data/forkable-repos.txt](data/forkable-repos.txt)。脚本只记录"是否成功发起 fork"，实际的 fork 状态可用 GitHub API 核对（`GET /repos/{owner}/{repo}` 的 `fork` 字段，或 `gh repo view`）。
 
 ## 当前判断
 
