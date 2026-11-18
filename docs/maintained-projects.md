@@ -12,7 +12,7 @@
 | [AutoScientists](https://github.com/mims-harvard/AutoScientists) | 2026-05-28 | B | 去中心化 AI agent 团队，长时间计算实验与共享经验。 |
 | [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 2026-08-19 | C | idea 到 paper 的自主/协作科研流水线，含 HITL 和 ARC-Bench。 |
 | [RD-Agent](https://github.com/microsoft/RD-Agent) | 2026-09-23 | B | 微软自动 R&D agent，偏数据科学、模型研发和金融因子开发。 |
-| [Denario](https://github.com/AstroPilot-AI/Denario) | 2026-10-02 | A | 天文/宇宙学多智能体科研助手，覆盖想法、文献、代码、图表与论文草稿；PRX Intelligence 2026 系统论文。 |
+| [Denario](https://github.com/Denario-AI/Denario) | 2026-10-02 | A | 天文/宇宙学多智能体科研助手，覆盖想法、文献、代码、图表与论文草稿；PRX Intelligence 2026 系统论文。 |
 | [cmbagent](https://github.com/CMBAgents/cmbagent) | 2026-11-16 | B | Denario 的研究分析后端之一。 |
 | [MIND](https://github.com/IMMS-Ewha/MIND) | 2026-03-16* | C | 材料研究 co-scientist，把自然语言研究请求转成 MLIP-ready 实验规格。 |
 | [Kaimen Co-Scientist](https://github.com/Kaimen-Inc/Co-Scientist) | 2026-08-03 | C | Google AI Co-Scientist 的非官方开源复刻。 |
