@@ -39,6 +39,7 @@
 - [调研方法](docs/methodology.md)
 - [顶刊与顶会系统](docs/top-papers-and-systems.md)
 - [维护项目主表（滚动窗口 2026-05-18 至 2026-11-18）](docs/maintained-projects.md)
+- [技术路线归类（按系统怎么组织科研过程分成 8 条路线）](docs/tech-routes.md)
 - [自动论文生产链](docs/writing-pipeline.md)
 - [评测基准](docs/benchmarks.md)
 - [排除与背景项目](docs/excluded-background.md)
